@@ -1,15 +1,14 @@
-## huzzah! and welcome! <**>/
-maybe i'll get around to fixin this thing up sometime  
-for now, i'm just another person trying to figure stuff out  
-wanna talk? me too! [visit me](https://solswiss.github.io/personal-portfolio/)!  
+## welcome <**>/
+  Hi! I'm a freshman at Texas A&M pursuing interests in software and hardware.  
+  Always looking for opportunities to grow!
 # **<♥♥>☆** <!--<♡♡> <♥♥> 〈♥️♥️〉-->
 <div display="flex">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white">
-  <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white">
 </div>
 
 <!--
