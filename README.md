@@ -1,7 +1,7 @@
 ## welcome <**>/
   Hi! I'm a freshman at Texas A&M pursuing interests in software and hardware.  
   Always looking for opportunities to grow!
-# **<♥♥>☆** <!--<♡♡> <♥♥> 〈♥️♥️〉-->
+<!--# **<♥♥>☆** <♡♡> <♥♥> 〈♥️♥️〉
 <div display="flex">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white">
 </div>
+-->
 
 <!--
 Things I really should stop forgetting to use
